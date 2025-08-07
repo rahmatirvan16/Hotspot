@@ -22,3 +22,5 @@
 <br><img width="601" height="766" alt="image" src="https://github.com/user-attachments/assets/36b1b07c-4a0c-4651-8560-3ec55a5407cb" />
 <br>kemudian ganti profile di user
 <br><img width="680" height="351" alt="image" src="https://github.com/user-attachments/assets/3bbb5aeb-169f-4f56-bcf3-8d89b9d35df6" />
+<br>untuk mengecek traffic bisa cek di Queues List
+<img width="920" height="292" alt="image" src="https://github.com/user-attachments/assets/ee5d22be-2293-461f-8cd2-f38f2efbd9bb" />
